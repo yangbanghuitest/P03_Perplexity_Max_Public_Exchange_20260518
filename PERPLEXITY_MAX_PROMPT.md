@@ -1,8 +1,8 @@
 # Perplexity Max Prompt for P03
 
-Use the public Git repository below as the source material:
+Use the public GitHub repository below as the source material:
 
-`http://tj.100000000.cc:3000/yangbh/P03_Perplexity_Max_Public_Exchange_20260518`
+`https://github.com/yangbanghuitest/P03_Perplexity_Max_Public_Exchange_20260518`
 
 I am preparing a manuscript for *Remote Sensing*:
 
@@ -38,4 +38,3 @@ Constraints:
 - Separate verified facts from your recommendations.
 
 Please return the answer in structured Markdown with tables where useful.
-

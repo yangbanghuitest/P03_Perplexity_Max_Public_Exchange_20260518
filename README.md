@@ -12,6 +12,10 @@ Target journal: *Remote Sensing*.
 
 Use this public repository as the easiest route for Perplexity Max or external academic reviewers to read the current P03 materials and return literature, framing, and manuscript-improvement suggestions.
 
+GitHub mirror for cloud AI access:
+
+`https://github.com/yangbanghuitest/P03_Perplexity_Max_Public_Exchange_20260518`
+
 The formal working repository remains:
 
 `http://tj.100000000.cc:3000/yangbh/P03_SAR_AIS_DarkVessel_RemoteSensing.git`
@@ -55,4 +59,3 @@ Please return:
 4. Revised abstract and contribution bullets.
 5. Reviewer-risk checklist.
 6. Any sentences that should be softened or removed.
-
