@@ -1,0 +1,19 @@
+{
+  "n_scenes": 50,
+  "total_sar_detections": 1076,
+  "total_matches": 684,
+  "total_dark_candidates": 392,
+  "total_ais_only": 302,
+  "total_identity_mismatch": 64,
+  "total_geofence_alerts": 227,
+  "mean_precision": 0.8194840000000001,
+  "mean_recall": 0.9105820000000001,
+  "mean_f1": 0.8564999999999999,
+  "mean_dark_precision": 0.495246,
+  "mean_dark_recall": 0.9301466666666667,
+  "mean_id_mismatch_recall": 0.6896551724137931,
+  "mean_proc_time_sec": 3.50002,
+  "std_proc_time_sec": 0.25833639594410185,
+  "pct_dark_of_sar_dets": 0.3643122676579926,
+  "pct_match_of_sar_dets": 0.6356877323420075
+}
