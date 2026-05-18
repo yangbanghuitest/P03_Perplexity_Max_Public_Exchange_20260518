@@ -1,6 +1,14 @@
 # Perplexity Max Prompt for P03
 
-Use the public GitHub repository below as the source material:
+Use the one-file public packet below as the source material. This is preferred because some cloud AI tools fail when asked to fetch a full GitHub repository:
+
+`https://gist.githubusercontent.com/yangbanghuitest/4ef2a7187b98461e15a6db295b6406c6/raw/P03_PERPLEXITY_MAX_ONE_FILE_PACKET.md`
+
+Backup raw link:
+
+`https://raw.githubusercontent.com/yangbanghuitest/P03_Perplexity_Max_Public_Exchange_20260518/main/P03_PERPLEXITY_MAX_ONE_FILE_PACKET.md`
+
+The full public GitHub repository is:
 
 `https://github.com/yangbanghuitest/P03_Perplexity_Max_Public_Exchange_20260518`
 
