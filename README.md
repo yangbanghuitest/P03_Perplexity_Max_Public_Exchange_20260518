@@ -16,6 +16,14 @@ GitHub mirror for cloud AI access:
 
 `https://github.com/yangbanghuitest/P03_Perplexity_Max_Public_Exchange_20260518`
 
+If a cloud AI tool cannot fetch the whole repository, use the one-file packet instead:
+
+`https://gist.githubusercontent.com/yangbanghuitest/4ef2a7187b98461e15a6db295b6406c6/raw/P03_PERPLEXITY_MAX_ONE_FILE_PACKET.md`
+
+Backup raw file:
+
+`https://raw.githubusercontent.com/yangbanghuitest/P03_Perplexity_Max_Public_Exchange_20260518/main/P03_PERPLEXITY_MAX_ONE_FILE_PACKET.md`
+
 The formal working repository remains:
 
 `http://tj.100000000.cc:3000/yangbh/P03_SAR_AIS_DarkVessel_RemoteSensing.git`
